@@ -24,6 +24,7 @@ show_downloads: true
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: 
+baseurl:
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
