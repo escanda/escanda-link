@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: Escandasys wiki
+title: escanda.link wiki
 # (string) Description of your wiki
-description: escandasys software wiki
+description: escanda's event recollection wiki
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
