@@ -1,0 +1,23 @@
+---
+redirect_from: /
+published: true
+---
+
+# Welcome to escanda's wiki!
+
+If you are reading up to this point I might be of your interest. Cool. But I am no celebrity. So... there is that.
+You might contact me at gc at escanda dot link.
+
+## Who is escanda?
+
+Escanda is a free individual willing to rock your boat on a wiki digest basis.
+So to speak: I am hacker, I hack.
+I might be at prison if you are reading this: wish me best. You: gtfo.
+
+## Content structure
+
+Content is divided into wiki and posts. Posts are temporal pieces of content I may write if I feel like it. Wiki pages are pieces of wishdom I birth at night - or not. But are narrow focused, so the difference.
+
+## Target audience
+
+None.
